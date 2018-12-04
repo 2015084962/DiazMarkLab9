@@ -145,9 +145,6 @@ public class MainActivity extends AppCompatActivity {
                 tvGender.setText(personList.get(i).getGender());
                 Toast.makeText(this, "Record Retrieved.", Toast.LENGTH_SHORT).show();
                 break;
-            } else {
-                Toast.makeText(this, "Record not Found.", Toast.LENGTH_SHORT).show();
-                break;
             }
         }
 
