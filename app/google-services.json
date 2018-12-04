@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "807672826725",
+    "firebase_url": "https://diazmarklab9.firebaseio.com",
+    "project_id": "diazmarklab9",
+    "storage_bucket": "diazmarklab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807672826725:android:0d81c03e6ee643ee",
+        "android_client_info": {
+          "package_name": "com.diaz.mark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807672826725-8o4frfoc7jo5bc0q42o4uiom2ugkfga2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diaz.mark",
+            "certificate_hash": "92be91e36c0b8ecc6cb54d7e81c495c2ed300f19"
+          }
+        },
+        {
+          "client_id": "807672826725-4d4pstnbl4ehngfsifcd9qtuvrnbo5lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ftr9EkXQHZrIhF2o7YjiqF4XDHNd92E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807672826725-4d4pstnbl4ehngfsifcd9qtuvrnbo5lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
