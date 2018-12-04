@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 for(DataSnapshot ds : dataSnapshot.getChildren()) {
                     Person person = ds.getValue(Person.class);
                     personList.add(person);
+                    //hehehe
                 }
             }
 
